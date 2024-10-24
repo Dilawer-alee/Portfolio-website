@@ -10,7 +10,7 @@ const Home = () => {
                     {/* Hello, I am Dilawer ali */}
                     <TextChange />
                 </h1>
-                <p className="text-sm md:text-2xl tracking-tight mt-7">
+                <p className="text-sm md:text-2xl tracking-tight mt-7~">
                     {/* Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod */}
                     MERN Stack Developer with expertise in building responsive web applications using MongoDB, Express, React, and Node.js
                 </p>
